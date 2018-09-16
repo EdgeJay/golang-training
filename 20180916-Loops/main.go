@@ -8,6 +8,7 @@ func main() {
 	}
 
 	// for is Go's while
+	// https://tour.golang.org/flowcontrol/3
 	fmt.Println("Test another kind of for-loop...")
 	j := 0
 	for j < 50 {
