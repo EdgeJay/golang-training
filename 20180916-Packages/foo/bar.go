@@ -2,6 +2,8 @@ package foo
 
 import "fmt"
 
+const V8 string = "V8"
+
 type Engine struct {
 	Type string
 }

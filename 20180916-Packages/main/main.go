@@ -9,7 +9,7 @@ func main() {
 		NumOfDoors:  5,
 		NumOfWheels: 4,
 		Engine: &foo.Engine{
-			Type: "V8",
+			Type: foo.V8,
 		},
 	}
 
